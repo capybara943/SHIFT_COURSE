@@ -4,11 +4,11 @@
 
   Инструкция к запуску:
 
-Компиляция: 
+1. Компиляция: 
 javac -d out/sortDataType/ src/main/java/org/example/*.java
 
 Запуск:
 java -cp out/sortDataType/ org.example.Main список_аргументов
 
-Или:
+2. Или:
 java -jar sortDataType.jar список_аргментов
